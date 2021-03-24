@@ -91,6 +91,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -209,6 +210,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = DiscreteScroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = sh.iwa.DiscreteScrollUniversal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -220,6 +222,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = DiscreteScroll/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = sh.iwa.DiscreteScrollUniversal;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -243,6 +246,7 @@
 				C32391591DE7B5670068C5B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
