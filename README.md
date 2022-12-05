@@ -6,7 +6,7 @@ Fix for OS X's scroll wheel problem, with native support of Apple Silicon
 
 ## Installation
 
-**You may download the binary [here](https://github.com/iwa/discrete-scroll-arm/releases/download/v0.1.1u/DiscreteScroll.zip).**<br/>
+**:warning: Download the new official universal binaries [here](https://github.com/emreyolcu/discrete-scroll/releases/).**<br/><br/>
 It runs in the background and allows you to scroll **3 lines** with each tick of the
 wheel.
 
